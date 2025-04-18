@@ -11,8 +11,8 @@ export default function Home() {
 
   return (
     <main style={{ fontFamily: 'serif', backgroundColor: '#f5f0ea', padding: '2rem' }}>
-      <h1 style={{ textAlign: 'center', fontSize: '2.5rem' }}>Neng Yanti & Gian Ramadhan</h1>
-      <p style={{ textAlign: 'center' }}>Kami mengundang Anda untuk hadir dalam hari bahagia kami</p>
+      <h1 style={{ textAlign: 'center', fontSize: '2.5rem', color: '#6B4226' }}>Neng Yanti & Gian Ramadhan</h1>
+      <p style={{ textAlign: 'center' }}>Dengan hormat, kami mengundang Anda untuk hadir dalam hari bahagia kami</p>
       <div style={{ maxWidth: '600px', margin: '2rem auto' }}>
         <h2>Tanggal & Waktu</h2>
         <p>Sabtu, 1 Juni 2025, pukul 08.00 - Selesai</p>
